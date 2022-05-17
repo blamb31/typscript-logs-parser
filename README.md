@@ -44,4 +44,3 @@ In the output.json file you will find both the output with the count of logs per
 ## Credits 
 
 Completed By: Blake Lamb
-Date Completed: 5/13/2022# typscript-logs-parser
